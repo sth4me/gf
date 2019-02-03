@@ -4,6 +4,7 @@ package greuseport
 
 import (
     "syscall"
+    "github.com/gogf/gf/third/golang.org/x/sys/windows"
 )
 
 // See net.RawConn.Control
